@@ -14,9 +14,6 @@ const NewsCard = ({ article }) => {
                 <h3>{article.title}</h3>
                 <p className='date'>{formattedTime} / {formattedDate}</p>
             </div>
-            {article.images && article.images.length > 0 && (
-                <img src={article.images[0].thumbnail} alt={article.title} />
-            )}
             <div className="content-link">
                 <p>{article.snippet}</p>
                 <a href={article.newsUrl} target="_blank" rel="noopener noreferrer">Read more</a>

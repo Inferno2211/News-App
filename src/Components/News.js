@@ -24,10 +24,10 @@ const News = () => {
                 const parsedData = await response.json();
 
                 if (parsedData.status !== 'success') {
-                    setRes('Failed to fetch news'); // Handle API errors
+                    setRes('Failed to fetch news');
                 } else {
                     setNewsData(parsedData.items);
-                    setRes(''); // Clear previous error messages
+                    setRes(''); 
                 }
 
                 console.log(url);

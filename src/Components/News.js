@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import NewsCard from './NewsCard';
 
 const apiKey =  process.env.REACT_APP_NEWS_API_KEY;
-console.log(apiKey);
 
 const News = () => {
     const [isTop, setIsTop] = useState(false);

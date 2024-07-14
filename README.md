@@ -2,7 +2,7 @@
 
 This is a modern, sleek news application built using React and the NewsAPI. It allows users to sort, filter, and query news articles across various categories such as Politics, Business, Technology, Arts, Science, Health, and Sports.
 
-[LIVE LINK](https://main--inferno-news-app.netlify.app)
+[LIVE LINK](https://google-api--inferno-news-app.netlify.app)
 
 Created for Cantilever Web Development Internship
 

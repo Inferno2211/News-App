@@ -87,7 +87,7 @@ const News = () => {
             }
         };
 
-        // fetchNews();
+        fetchNews();
     }, [isTop, selectedCategory, selectedCountry, selectedSort, selectedLanguage, query]);
 
     return (

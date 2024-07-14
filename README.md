@@ -2,6 +2,8 @@
 
 This is a modern, sleek news application built using React and the NewsAPI. It allows users to sort, filter, and query news articles across various categories such as Politics, Business, Technology, Arts, Science, Health, and Sports.
 
+[LIVE LINK](https://main--inferno-news-app.netlify.app)
+
 Created for Cantilever Web Development Internship
 
 ## Features
@@ -35,7 +37,7 @@ Follow these instructions to clone the project and run it locally on your machin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/news-app.git
+   git clone https://github.com/Inferno2211/news-app.git
    cd news-app
    ```
 

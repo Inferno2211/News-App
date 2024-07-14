@@ -11,9 +11,15 @@ Created for Cantilever Web Development Internship
 - Responsive design with a dark theme and glowing neon elements
 - Animated logo with pastel colors
 
-## Screenshot
+## Screenshots
 
-![News App](./screenshot.png)
+Homepage:
+![News App](https://github.com/user-attachments/assets/733c145b-1e67-4f71-9105-a81ffd754673)
+
+Auth:
+![Auth](https://github.com/user-attachments/assets/fca71fd0-61a3-450e-a4a1-09532a72f6cc)
+
+
 
 ## Getting Started
 
